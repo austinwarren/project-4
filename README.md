@@ -1,7 +1,10 @@
 # UOCIS322 - Project 4 #
 Name: Austin Warren
+
 Description: In this application we are creating a calculator which calculates the opening and closing times for an ACP brevet. The main algorithm finds the open and close times at various brevet distances. To use docker, use the command "docker built -t myimage" in your command line. Then run "docker run -dp HOSTPORT:CONTAINERPORT myimage". After docker is running, type in "127.0.0.1:HOSTPORT" into your browser, and this should pull up the ACP Brevet Times calculator webpage. 
+
 Contact: awarren3@uoregon.edu
+
 You'll learn how to write test cases and test your code, along with more JQuery.
 
 ## Overview
